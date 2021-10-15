@@ -11,10 +11,10 @@ export const exploreNFTsData = [
 
 /** MY ASSETS DATA **/
 export const myAssetsData = [
-  { id: 1, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem1.png' },
-  { id: 2, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem2.png' },
-  { id: 3, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem3.png' },
-  { id: 4, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem4.png' },
+  { id: 1, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod1', url: 'assets/imgs/assetsItem1.png' },
+  { id: 2, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod1', url: 'assets/imgs/assetsItem2.png' },
+  { id: 3, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod1', url: 'assets/imgs/assetsItem3.png' },
+  { id: 4, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod1', url: 'assets/imgs/assetsItem4.png' },
   { id: 5, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem5.png' },
   { id: 6, title: 'NFT’s/Collectibles', description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod', url: 'assets/imgs/assetsItem6.png' }
 ]
